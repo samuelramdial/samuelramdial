@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Samuel Ramdial
 
-<!--
-**samuelramdial/samuelramdial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a Computer Science graduate currently pursuing my Master’s in Computer Science at Georgia Tech.  
+💻 Passionate about backend development, data analysis, and building tools that make life easier.  
+🌍 Open to roles in backend engineering, data analytics, or any tech-adjacent field where I can contribute meaningfully.
 
-Here are some ideas to get you started:
+## 🚀 What I Bring
+- Experience with Java, Python, JavaScript (Node.js, Express), MongoDB, and SQL
+- Projects featuring CRUD operations, RESTful APIs, authentication, rate limiters, and UI design
+- Agile methodology experience with sprint planning, standups, and collaboration tools
+- Strong understanding of software engineering principles and problem-solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔍 I'm Currently
+- Building full-stack web applications  
+- Exploring data science and systems design  
+- Seeking internship or full-time opportunities in tech
+
+## 📫 Get in Touch
+Feel free to [connect with me on LinkedIn](https://www.linkedin.com/in/your-link) or check out my latest projects below!
+
+---
+
+Thanks for stopping by — let’s build something great!
