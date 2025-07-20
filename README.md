@@ -16,7 +16,7 @@
 - Seeking internship or full-time opportunities in tech
 
 ## 📫 Get in Touch
-Feel free to [connect with me on LinkedIn](https://www.linkedin.com/in/samuelramdial) or check out my latest projects below!
+Feel free to [connect with me on LinkedIn](https://www.linkedin.com/in/samuel-ramdial/) or check out my latest projects below!
 
 ---
 
