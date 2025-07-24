@@ -4,6 +4,12 @@
 💻 Passionate about backend development, data analysis, and building tools that make life easier.  
 🌍 Open to roles in backend engineering, data analytics, or any tech-adjacent field where I can contribute meaningfully.
 
+## 🔗 Check Out My Portfolio  
+Explore my work, skills, and projects here: [samuelramdial.com](https://new-portfolio-nine-puce.vercel.app/) 
+
+<img width="1103" height="564" alt="image" src="https://github.com/user-attachments/assets/08716ae5-8e62-42b6-a2b3-7a6e554fd3fd" />
+
+
 ## 🚀 What I Bring
 - Experience with Java, Python, JavaScript (Node.js, Express), MongoDB, and SQL
 - Projects featuring CRUD operations, RESTful APIs, authentication, rate limiters, and UI design
